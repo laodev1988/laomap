@@ -1,0 +1,12 @@
+streamlit
+opencv-python-headless
+numpy
+pandas
+pillow
+requests
+folium
+streamlit-folium
+pyshp
+psutil
+rasterio
+pyproj
